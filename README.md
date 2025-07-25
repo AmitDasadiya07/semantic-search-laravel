@@ -16,6 +16,6 @@ This Laravel application allows users to perform semantic search on service cate
 
 ### 1. Clone the Repository
 
-```bash
+bash
 git clone https://github.com/AmitDasadiya07/semantic-search-laravel.git
 cd semantic-search-laravel
